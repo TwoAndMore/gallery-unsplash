@@ -1,9 +1,19 @@
-# React TypeScript Starter Pack
+# Gallery Unsplash
 
-To use this template click `Use this template`
+## About
 
-### Available Scripts
+Implemented gallery based on React.JS that will display photos from unsplash.
 
-`Deploy` - available to deploy your application to gh-pages
+[DEMO LINK](https://twoandmore.github.io/gallery-unsplash/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Preview
+
+![img.png](preview.png)
+
+## How to work with. Steps:
+
+1. Download or clone repository. `git clone git@github.com:TwoAndMore/gallery-unsplash.git`.
+2. Open project folder with code editor (VS Code, WebStorm, other).
+3. Run ```npm install``` in terminal.
+4. Open second terminal and run ```npm start```.
+5. If tab does not open, go to ```http://localhost:3000``` in your browser.
